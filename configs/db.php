@@ -15,7 +15,7 @@ if ($_SERVER['SERVER_NAME'] === 'localhost') {
         'port' => 3306,
         'dbname' => 'kdscecom_db',
         'username' => 'kdscecom',
-        'password' => 'cu6XpxW4P3',
+        'password' => '7pZ4*A4EoljB:6',
     ];
 }
 
