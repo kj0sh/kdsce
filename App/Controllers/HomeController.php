@@ -24,4 +24,16 @@ class HomeController
     {
         loadView('home');
     }
+    public function about()
+    {
+        loadView('about');
+    }
+    public function events()
+    {
+        loadView('events');
+    }
+    public function contact()
+    {
+        loadView('contact');
+    }
 }
