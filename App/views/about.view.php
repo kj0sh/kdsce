@@ -20,10 +20,10 @@
                             <img src=img/kdsce-logo-cropped-no-bg.png" class="img-fluid logo" alt=""></a></div>
                     <div class="col-lg-6 d-none d-lg-flex justify-content-center align-items-center gap-1">
                         <ul class="list-unstyled fw-medium d-flex align-items-center justify-content-end m-0 gap-0">
-                            <li><a class="p-2" href="index.html">Home</a></li>
-                            <li><a class="p-2 tc_primary" href="about.html">About</a></li>
-                            <li><a class="p-2" href="events.html">Events</a></li>
-                            <li><a class="p-2" href="contact.html">Contact</a></li>
+                            <li><a class="p-2" href="./">Home</a></li>
+                            <li><a class="p-2 tc_primary" href="./about">About</a></li>
+                            <li><a class="p-2" href="./events">Events</a></li>
+                            <li><a class="p-2" href="./contact">Contact</a></li>
                             <li><a class="p-2" href="">Blog</a></li>
                         </ul>
                     </div>
@@ -41,10 +41,10 @@
                             <div class="offcanvas-body d-flex flex-column"><a href="index.html">
                                     <img src="img/kdsce-logo-cropped-no-bg.png" alt="kdsce_logo" class="logo img-fluid"></a>
                                 <ul class="list-unstyled mobile_menu smoothscroll mb-auto">
-                                    <li><a class="p-2" href="index.html">Home</a></li>
-                                    <li><a class="p-2 tc_primary" href="about.html">About</a></li>
-                                    <li><a class="p-2" href="events.html">Events</a></li>
-                                    <li><a class="p-2" href="">Contact</a></li>
+                                    <li><a class="p-2" href="./">Home</a></li>
+                                    <li><a class="p-2 tc_primary" href="./about">About</a></li>
+                                    <li><a class="p-2" href="./events">Events</a></li>
+                                    <li><a class="p-2" href="./contact">Contact</a></li>
                                     <li><a class="p-2" href="">Blog</a></li>
                                 </ul>
                                 </ul>
@@ -345,10 +345,10 @@
                 <img src="img/kdsce-logo-cropped-no-bg.png" class="img-fluid logo mb-2" alt="kdsce_logo">
                 <ul
                     class="list-unstyled fw-medium d-flex flex-column flex-md-row align-items-center justify-content-center gap-md-0 m-0 mb-4 gap-1">
-                    <li><a class="p-2" href="index.html">Home</a></li>
-                    <li><a class="p-2 tc_primary" href="about.html">About</a></li>
-                    <li><a class="p-2" href="events.html">Events</a></li>
-                    <li><a class="p-2" href="contact.html">Contact</a></li>
+                    <li><a class="p-2" href="./">Home</a></li>
+                    <li><a class="p-2 tc_primary" href="./about">About</a></li>
+                    <li><a class="p-2" href="./events">Events</a></li>
+                    <li><a class="p-2" href="./contact">Contact</a></li>
                     <li><a class="p-2" href="">Blog</a></li>
                 </ul>
                 <ul class="list-unstyled footer_gray_social mb-12">
