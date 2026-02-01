@@ -124,7 +124,7 @@
                     <li><a href="https://twitter.com/kdsc_expo"><i class="fa-brands fa-x-twitter"></i></a></li>
                 </ul>
                 <h5>&copy; 2025 - KDSCE - Kaduna Student Career Expo.</h5>
-                <p>Built with ♥ by <a href="" class="text-decoration-underline">KingJoshua</a></p>
+                <p>Built with ♥ by <a href="" class="text-decoration-underline">kjosh.dev</a></p>
             </div>
         </div>
     </footer>
