@@ -13,9 +13,9 @@ if ($_SERVER['SERVER_NAME'] === 'localhost') {
     return [
         'host' => 'localhost',
         'port' => 3306,
-        'dbname' => 'grab_back_db',
-        'username' => 'grabback',
-        'password' => '3f#2!U7G1HwzYe',
+        'dbname' => 'kdscecom_db',
+        'username' => 'kdscecom',
+        'password' => 'cu6XpxW4P3',
     ];
 }
 
