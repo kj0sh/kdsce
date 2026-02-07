@@ -71,8 +71,7 @@
         <div class="py-home container">
             <div class="row">
                 <div class="col-lg-2 col-6 order-lg-first" data-cues="bounceIn">
-                    <figure><img src="img/smiling-female-modified.png" alt=""
-                            class="ani-float ani-long img-fluid mt-min-42"></figure>
+                    <figure><img src="img/kdsce-01.png" alt="" class="ani-float ani-long img-fluid mt-min-42"></figure>
                     <figure class="text-end"><img src="img/home/icon1.png" alt=""
                             class="img-fluid ani-short ani-float mt-md-3 mt-lg-6 mt-0"></figure>
                 </div>
@@ -92,7 +91,7 @@
                 </div>
                 <div class="col-lg-2 col-6 order-lg-last text-end" data-cues="bounceIn">
                     <figure>
-                        <img src="img/guy-smiling-blue-shirt-modified.png" style="border-radius: 50%;" alt=""
+                        <img src="img/kdsce-02.png" style="border-radius: 50%;" alt=""
                             class="ani-float ani-long img-fluid mt-min-42 ani-delay">
                     </figure>
                     <figure class="text-start"><img src="img/home/icon2.png" alt=""
