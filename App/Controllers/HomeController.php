@@ -20,20 +20,8 @@ class HomeController
      *
      * @return void
      */
-    public function index()
-    {
-        loadView('home');
-    }
-    public function about()
-    {
-        loadView('about');
-    }
-    public function events()
+    public function event_detail()
     {
         loadView('events');
-    }
-    public function contact()
-    {
-        loadView('contact');
     }
 }
