@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Kaduna Student Career Expo - KDSCE</title>
     <link rel="icon" type="image/x-icon" href="https://cdn.kdsce.com.ng/img/kdsce-icon.png">
-    <link rel="stylesheet" href="https://cdn.kdsce.com.ng/css/plugins.css">
-    <link rel="stylesheet" href="https://cdn.kdsce.com.ng/css/style.css">
+    <link rel="stylesheet" href="css/plugins.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 </head>
 
@@ -350,7 +350,7 @@
                             We’re Uniting Career Paths -
                         </div>
                     </div>
-                    <img class="img-fluid pe-4 opacity-0" src="img/smiling-male-grad.jpg" alt="">
+                    <img class="img-fluid pe-4 opacity-0" src="" alt="">
                 </div>
                 <div class="col-lg-9">
                     <p class="fw-medium ls-wide text-uppercase tc_primary">TESTIMONIALS</p>
@@ -575,8 +575,8 @@
         </div>
     </footer>
     <div class="scrollToTopBtn rounded-4 shadow-sm"><i class="ph ph-arrow-up"></i></div>
-    <script src="https://cdn.kdsce.com.ng/js/vendor.js"></script>
-    <script src="https://cdn.kdsce.com.ng/js/script.js"></script>
+    <script src="js/vendor.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
